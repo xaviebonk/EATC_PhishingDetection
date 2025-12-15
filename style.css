@@ -43,16 +43,16 @@ html, body, [class*="css"] {
     font-family:  "Raleway", sans-serif;
 }
 
-.my-image{
+.my-image img {
   display: block;
-  width:530px;
+  width:430px;
   margin-left:auto;
   margin-right:auto;
 }
 
-.my-image2{
+.my-image2 img{
   display: block;
-  width:510px;
+  width:310px;
   margin-left:auto;
   margin-right:auto;
 }
