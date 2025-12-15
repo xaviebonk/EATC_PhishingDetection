@@ -45,7 +45,9 @@ html, body, [class*="css"] {
 
 .my-image {
   display: block;
-  width:430px;
+  width: 100%;
+  max-width:430px;
+  height:auto;
   margin-left:auto;
   margin-right:auto;
 }
