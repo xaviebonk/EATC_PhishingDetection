@@ -183,7 +183,7 @@ st.markdown("""
 
 
 # Embed the font link
-with open( "styles.css" ) as css:
+with open( "style.css" ) as css:
     st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
 
 
